@@ -1,0 +1,4 @@
+ascii-magic==1.6
+colorama==0.4.5
+Pillow==9.2.0
+pyfiglet==0.8.post1
